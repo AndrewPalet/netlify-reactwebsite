@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Andrew Palet's Continuous Integration Test2
+          Andrew Palet's Continuous Integration Test3
         </a>
       </header>
     </div>
