@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Andrew Palet's Continuous Integration Test3
+          Andrew Palet's Continuous Integration Different build path
         </a>
       </header>
     </div>
