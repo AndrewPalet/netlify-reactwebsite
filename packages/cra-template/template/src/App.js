@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is an example of Hosting a website!
+          Andrew Palet's Continuous Integration
         </a>
       </header>
     </div>
